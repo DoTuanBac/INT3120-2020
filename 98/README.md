@@ -1,9 +1,10 @@
 # Nhóm 98
-- Đỗ Tuấn Bắc
+- Đỗ Tuấn Bắc - 17020602
 - Thức Nguyễn
-- Vũ Thị Thanh Mai
+- Vũ Thị Thanh Mai - 17020877
 
 # :motorcycle: Bằng B2 - 450 câu hỏi học & thi sát hạch B2<br>
+- [App](https://play.google.com/store/apps/details?id=com.hamado_ltd.bangb2)
 ### :clipboard: Mô tả ứng dụng
 - Ứng dụng gồm đầy đủ 450 câu hỏi thi sát hạch hạng B2 dùng cho các học viên đang tham gia, giúp các bạn chuẩn bị thi bằng lái xe máy và xe ô tô có thể ôn thi phần lý thuyết một cách nhanh chóng và hiệu quả nhất.
 
